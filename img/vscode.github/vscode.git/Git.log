@@ -1,0 +1,6 @@
+2023-10-05 15:07:08.641 [info] Nível de log: Info
+2023-10-05 15:07:08.642 [info] Validando o git encontrado em: C:\Program Files\Git\cmd\git.exe
+2023-10-05 15:07:08.642 [info] Validando o git encontrado em: C:\Program Files (x86)\Git\cmd\git.exe
+2023-10-05 15:07:08.642 [info] Validando o git encontrado em: C:\Program Files\Git\cmd\git.exe
+2023-10-05 15:07:08.642 [info] Validando o git encontrado em: C:\Users\Administrador\AppData\Local\Programs\Git\cmd\git.exe
+2023-10-05 15:07:08.812 [warning] Git installation not found.
